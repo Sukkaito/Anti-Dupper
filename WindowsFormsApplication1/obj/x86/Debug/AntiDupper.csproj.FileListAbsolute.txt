@@ -1,0 +1,11 @@
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AntiDupper.csproj.GenerateResource.Cache
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AntiDupper.exe.config
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AntiDupper.exe
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AntiDupper.pdb
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AntiDupper.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AntiDupper.exe
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AntiDupper.pdb
+C:\Users\Phong\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AntiDupper.csprojResolveAssemblyReference.cache
